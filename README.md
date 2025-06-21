@@ -2,6 +2,8 @@
 
 This is a Flask web application that predicts the quality of red wine based on its physicochemical properties. The application uses a machine learning regression model trained on a dataset of red wine characteristics.
 
+### 🌐User Manual: https://aligohar2151.github.io/Wine_prediction_System_User_Manual/
+
 ## ✨ Features
 
 * **User-friendly Interface:** Simple web form for entering wine properties.
@@ -22,5 +24,4 @@ The application uses a `RandomForestRegressor` model, which was trained on the [
 * **NumPy, Pandas:** For data handling
 * **HTML, CSS, JavaScript:** For the front-end interface
 
-### 🌐User Manual: (https://aligohar2151.github.io/Wine_prediction_System_User_Manual/)
 

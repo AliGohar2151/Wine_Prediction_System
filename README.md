@@ -24,8 +24,3 @@ The application uses a `RandomForestRegressor` model, which was trained on the [
 
 ### 🌐User Manual: (https://aligohar2151.github.io/Wine_prediction_System_User_Manual/)
 
-## 📄 License
-
-This project is licensed under the MIT License. You can find the full text of the license in the `LICENSE` file (you may need to create this file in your repository).
-
----
